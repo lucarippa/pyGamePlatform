@@ -1,7 +1,7 @@
 # KidsCanCode - Game Development with Pygame video series
-# Jumpy! (a platform game) - Part 10
-# Video link: https://youtu.be/kuVsKUuVOwc
-# Character animation (part 1)
+# Jumpy! (a platform game) - Part 11
+# Video link: https://youtu.be/n4TQfKt4wpQ
+# Character animation (part 2)
 # Art from Kenney.nl
 
 import pygame as pg
